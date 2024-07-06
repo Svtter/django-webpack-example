@@ -13,3 +13,7 @@ pnpm run watch
 # Start backend server.
 cd src/ && python manage.py runserver
 ```
+
+## Depends
+
+This project is built with [python-webpack-boilerplate](https://github.com/AccordBox/python-webpack-boilerplate).
